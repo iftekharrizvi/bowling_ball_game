@@ -3,6 +3,9 @@ It is a Program, which, given a valid sequence of rolls for one line of American
 
 Problem Statement :
 
+![image](https://user-images.githubusercontent.com/9101436/131888157-17b342ba-101c-4251-912f-bb92209293fb.png)
+
+
 Bowling ball scoring
 Create a program, which, given a valid sequence of rolls for one line of American Ten-Pin Bowling, produces
 the total score for the game. Here are some things that the program does not need to do:
@@ -100,4 +103,9 @@ X
 10
 
 167 + 10 + 10 = 187
+
+
+______________
+
+![image](https://user-images.githubusercontent.com/9101436/131888249-fe36f85e-dc96-4ef3-9fa9-c775dcebe629.png)
 
