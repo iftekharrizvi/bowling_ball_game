@@ -49,5 +49,8 @@
     <Compile Include="Spare.cs" />
     <Compile Include="Strike.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="BowlingClassDiagram.cd" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
